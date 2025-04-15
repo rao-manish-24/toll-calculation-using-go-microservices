@@ -18,7 +18,8 @@ enterprise-like architecture to learn from. This has really cemented my skills i
 ```
 
 ##### Below is a graphic representing how the services interact with each other:
-![332120414-5e233021-2a41-402c-ad82-43e7ae8e7ec9](https://github.com/user-attachments/assets/ff7bc715-d531-421e-ae6d-27ffeaf73420)
+![332120414-5e233021-2a41-402c-ad82-43e7ae8e7ec9](https://github.com/user-attachments/assets/4cca6cfb-e9b6-42ed-99e3-785089a0fccf)
+
 
 ![Architecture Diagram]
 
@@ -65,19 +66,23 @@ http://localhost:4000/aggregate to post your own "invoice" in the form of JSON w
 All information for each Microservice, in each separate terminal, is shown as such:
 
 ### Invoice Aggregator: 🏁 Finish Line
-![332107162-991c31ab-96c5-46fd-bf64-1b87eb1cf43b](https://github.com/user-attachments/assets/c9d7d2be-4044-40fc-9e16-913f67d15074)
+
+![332107162-991c31ab-96c5-46fd-bf64-1b87eb1cf43b](https://github.com/user-attachments/assets/6a4289f7-d679-4b5e-a717-d761690e4829)
 
 
 ### Distance Calculator: ⬆️
-![332107604-47020253-a881-439e-ad36-77b52198de9b](https://github.com/user-attachments/assets/1653a301-08ad-42d3-9f21-779699094267)
+
+![332107604-47020253-a881-439e-ad36-77b52198de9b](https://github.com/user-attachments/assets/e61d216c-cd36-4eb8-a3ac-0a226ec6c9d0)
 
 
 ### Data Receiver: ⬆️
-![332107469-79dc3231-d686-4c0c-9b39-fb54f7084b13](https://github.com/user-attachments/assets/4e801da3-7fa8-4943-9479-37dd045c77b7)
+
+![332107469-79dc3231-d686-4c0c-9b39-fb54f7084b13](https://github.com/user-attachments/assets/80052081-636d-4a12-a12c-a7bec58d2f89)
 
 
 ### OBU: ⬆️
-![332108482-1005af63-bcf7-42af-b99b-482778fe9ba7](https://github.com/user-attachments/assets/e936c398-1629-4780-941a-5f69319898ac)
+
+![332108482-1005af63-bcf7-42af-b99b-482778fe9ba7](https://github.com/user-attachments/assets/195a405c-e677-493e-b4f4-f213e971327e)
 
 
 **MakeFile warning affects nothing**
